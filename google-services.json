@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803286100907",
+    "project_id": "parkguardai-d9828",
+    "storage_bucket": "parkguardai-d9828.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803286100907:android:a59b132bdeb323e9cf80ee",
+        "android_client_info": {
+          "package_name": "com.parkguard.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTz_bKlTEutRrBVU60Dihe9y5yJV8nqTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

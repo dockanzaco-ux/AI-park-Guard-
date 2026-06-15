@@ -1,0 +1,6 @@
+{
+  "name": "ParkGuard AI",
+  "description": "Enterprise Smart Parking Intelligence Ecosystem featuring real-time GIS mapping, citizen parking discovery, automated ANPR/OCR enforcement, and AI-enabled dynamic pricing and violation prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
